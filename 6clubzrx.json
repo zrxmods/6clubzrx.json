@@ -1,0 +1,16 @@
+  "matching_urls": [
+    "https://dhv23f.com/#/wallet",
+    "https://dhv23f.com/#/wallet/recharge",
+    "https://dhv23f.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
+    "https://dhv23f.com/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo",
+    "https://dhv23f.com/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
+    "https://dhv23f.com/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
+  ],
+  "deposit_url": "https://dhv23f.com/#/wallet/recharge",
+  "login_url": "https://dhv23f.com/#/login",
+  "register_url": "https://www.dhv23f.com/#/register?invitationCode=226534817634",
+  "telegram_url": "https://t.me/+7tEEX9omRsIwOGZl",
+  "home_url": "https://dhv23f.com/#/",
+  "minimum_deposit": 500,
+  "minimum_deposit_number": 500
+}
