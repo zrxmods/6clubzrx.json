@@ -1,18 +1,18 @@
 {
   "status": true,
   "matching_urls": [
-    "https://lottry7r.com/#/wallet",
-    "https://lottry7r.com/#/wallet/recharge",
-    "https://lottry7r.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
-    "https://lottry7r.com/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo",
-    "https://lottry7r.com/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
-    "https://lottry7r.com/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
+    "https://lottery7r.com/#/wallet",
+    "https://lottery7r.com/#/wallet/recharge",
+    "https://lottery7r.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
+    "https://lottery7r.com/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo",
+    "https://lottery7r.com/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
+    "https://lottery7r.com/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
   ],
-  "deposit_url": "https://lottry7r.com/#/wallet/recharge",
-  "login_url": "https://lottry7r.com/#/login",
-  "register_url": "https://www.lottry7r.com/#/register?invitationCode=226534817634",
+  "deposit_url": "https://lottery7r.com/#/wallet/recharge",
+  "login_url": "https://lottery7r.com/#/login",
+  "register_url": "https://lottery7r.com/#/register?invitationCode=4114418553449",
   "telegram_url": "https://t.me/+7tEEX9omRsIwOGZl",
-  "home_url": "https://lottry7r.com/#/",
+  "home_url": "https://lottery7r.com/#/",
   "minimum_deposit": 500,
   "minimum_deposit_number": 500
 }
