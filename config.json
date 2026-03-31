@@ -1,3 +1,4 @@
+{
   "matching_urls": [
     "https://dhv23f.com/#/wallet",
     "https://dhv23f.com/#/wallet/recharge",
@@ -8,10 +9,8 @@
   ],
   "deposit_url": "https://dhv23f.com/#/wallet/recharge",
   "login_url": "https://dhv23f.com/#/login",
-  "register_url": "https://www.dhv23f.com/#/register?invitationCode=226534817634",
+  "register_url": "https://dhv23f.com/#/register?invitationCode=226534817634",
   "telegram_url": "https://t.me/+7tEEX9omRsIwOGZl",
   "home_url": "https://dhv23f.com/#/",
-  "minimum_deposit": 500,
-  "minimum_deposit_number": 500
+  "minimum_deposit": 500
 }
-
