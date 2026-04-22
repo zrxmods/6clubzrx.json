@@ -1,7 +1,21 @@
 {
   "status": true,
-  "main_url": "https://13l.info/register?inviteCode=SUKE66N&from=app",
-  "tg_link": "https://t.me/+2ABkdUrcdtQ3ZmQ1",
-  "show_tg": true,
-  "force_update": false
+
+  "home_url": "https://13l.info/register?inviteCode=SUKE66N&from=app",
+  "register_url": "https://13l.info/register?inviteCode=SUKE66N&from=app",
+  "login_url": "https://13l.info/login",
+  "deposit_url": "https://13l.info/deposit",
+
+  "telegram": "https://t.me/+2ABkdUrcdtQ3ZmQ1",
+
+  "min_deposit": 100,
+  "min_number_deposit": 100,
+
+  "matching_urls": [
+    "wingo",
+    "trx",
+    "30sec",
+    "1min",
+    "5min"
+  ]
 }
