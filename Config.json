@@ -8,8 +8,8 @@
 
   "telegram": "https://t.me/+2ABkdUrcdtQ3ZmQ1",
 
-  "min_deposit": 100,
-  "min_number_deposit": 100,
+  "min_deposit": 300,
+  "min_number_deposit": 300,
 
   "matching_urls": [
     "wingo",
